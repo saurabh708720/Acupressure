@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">National Acupressure Elearning</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hello">hello</string>
+    <string name="dummy_text">Cure without Any Medicine</string>
+</resources>
